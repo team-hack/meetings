@@ -26,7 +26,7 @@ We will also have a couple nights in the month where we can pair program togethe
 
 ### Wireframe & Project Details
 
-For our meeting, I’ll be going over a wireframe and some research I did on component libraries (you can view these issues here).  We will discuss the wireframe and next steps, especially how to code out these components -- and from there create issues and assign tasks and due dates to individuals.  I expect after the next meeting for our team to begin working primarily on this project and making pull requests.  
+For our meeting, I’ll be going over a wireframe and some research I did on component libraries (you can view these issues [here](https://github.com/team-hack/react-components/issues)).  We will discuss the wireframe and next steps, especially how to code out these components -- and from there create issues and assign tasks and due dates to individuals.  I expect after the next meeting for our team to begin working primarily on this project and making pull requests.  
 
 
 If all goes well, we can continue to meet up on this project for the next few weeks over Zoom, talk through any issues and blockers and get them figured out.  Once the project is done, we are free to start another project, possibly something even more complicated -- e.g. a backend project of some sorts.   
