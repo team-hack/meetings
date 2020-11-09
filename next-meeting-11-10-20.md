@@ -38,7 +38,9 @@ Anyone with a good idea is free to make a “presentation” or a “demo” and
 Okay, hope all that makes sense.  See you at [7pm Tuesday night](https://zoom.us/j/99365250178?pwd=UGVNdjRKNVh3MWNPcHN3V1FQTmd0dz09), or earlier via [Discord](https://discord.gg/sFHSVR5).
 
 Vijay
+
 Team Hack Lead
+
 https://teamhack.org
 
 
