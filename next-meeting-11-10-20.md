@@ -1,4 +1,4 @@
-Hey Team Hack!
+# Hey Team Hack!
 
 ## Meeting Up Tuesday Nov 10, 2020 at 7pm
 
