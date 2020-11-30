@@ -4,17 +4,17 @@ Hope you are doing well!  I hope everyone had a great Thanksgiving and Cyber Dea
 
 We will be having our third meetup on Wednesday at 6pm PST via ZOOM. 
 
-`>>` [RSVP Here for ZOOM LINK](https://zoom.us/meeting/register/tJEkc-qvqD8pH9UDSsN71RevbqFeVhGp8xYr)
+`>>` [RSVP Here for ZOOM LINK](https://zoom.us/meeting/register/tJEkc-qvqD8pH9UDSsN71RevbqFeVhGp8xYr) ❄❄❄
 
 >> You will need a Zoom account to join the meeting (free), as we require everyone to sign in for security and safety issues.
 
-### Agenda
+### 👋 Agenda
 
 We will be meeting up to talk through the __React StoryBook__ project we are working on.  As we get into December, my hope is that we can have more components built out and added to a staging server so we can show off our work to the world.
 
 I would like to also start trying out some Github Actions for CI/CD so we can see our work on a staging server.  The way I envision this would be pull requests could be submitted, then auto unit-tested and if successful, deployed to a staging server (possibly integrated with Github/Azure or some other environment).  If anyone wants to help with setting this up, please let me know.
 
-### What You Should Do
+### 🤔 What You Should Do
 
 __Continue to write code__ for your component.  
 
@@ -40,7 +40,7 @@ The __focus__ of this project is good User Interface.  So beyond working with to
 
 For example, if you create an `Alert`, think about how someone else might use your `Alert` Component and what are all the cool options (props) you can give them?  Does your component support any event handlers (e.g. onClick, onFocus, onBlur)?  Does your component support Accessibility?  Is your component Unit Tested (see below for more discussion).
 
-### Keep Up To Date
+### ⭐ Keep Up To Date
 
 I hope by now, you are all familiar with how to __make feature branches and add pull requests__ to the main repo.  You should also be sure to keep your development in sync with the upstream repo often, to avoid any potential merge conflicts -- especially with common files like `package.json` and `tsconfig.json` as some work has been done there.
 
@@ -60,7 +60,7 @@ git merge upstream/<my branch>
 
 As always, push up your __feature__ branch to your own forked repo, then make a pull request to the [Team Hack](https://github.com/team-hack) repo.  If the changes look good, we will merge them to the `main` branch.  If the changes have issues, we will close the issue and send the PR back to you with suggestions for fixing.  You will need to open another PR if your issue is closed.
 
-### Create Some Unit Tests
+### 🧪 Create Some Unit Tests
 
 To get the CI/CD server going, we need to make sure over time we begin writing Unit Tests for our components.  This will be a point of discussion at our meeting; as well as something documented via our Issues.  
 
@@ -72,10 +72,10 @@ Out of the box, our React Storybook supports Jest, and [there are tutorials for 
 
 Run `yarn test --watchAll` from a second command shell and see your tests run in action.  
 
-### Chat On Discord (or Github Issues)
+### 💬 Chat On Discord (or Github Issues)
 
 I know a lot of you are still learning and trying to catch up.  If you are getting stuck, feel free to reach out to me or anyone on Discord and we can try to help you out via some Paired Programming (Zoom session or Google Meets).  It's so easy to share a screen and work together in this age -- a decade ago when I started learning, I had to drive out to coffee shops and meet people -- now all that is instant for you.   Take advantage of accelerated learning!
 
-### See you Wednesday at 6PM!
+### 🚂 See you Wednesday at 6PM!
 
 `>>` [RSVP Here for ZOOM LINK](https://zoom.us/meeting/register/tJEkc-qvqD8pH9UDSsN71RevbqFeVhGp8xYr)
