@@ -32,5 +32,9 @@ Note, some of these we will have to do together, but as you read through this li
 
 ## When's The Meeting?
 
-💾 Next Team Hack Meeting is __Tuesday, January 12 at 6pm__.  See you there!  Any questions, feel free to reach out via [Discord](https://discord.gg/eZDC3rP), and I'm `@vijay` there.  See ya!
+💾 Next Team Hack Meeting is __Tuesday, January 12 at 6pm__.  Be sure to join us via this [invite link](https://zoom.us/meeting/register/tJMtdumtrDkiHdTWNKeV__QYJYzKmVf6LJur).  Note, you must be registered through Zoom to ensure our group is a safe space for everyone involved.  
+
+> Any issues, please contact me via Discord an hour before the meeting at least so I can help.
+
+See you there!  Any questions, feel free to reach out via [Discord](https://discord.gg/eZDC3rP), and I'm `@vijay` there.  See ya!
   
