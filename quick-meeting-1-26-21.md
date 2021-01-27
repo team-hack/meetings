@@ -16,13 +16,15 @@
 
 🎛 Is your component using [Storybook controls](https://storybook.js.org/docs/react/essentials/controls)?  If not, give the API a read and try configuring your components to allow for UI Control.
 
-## But, I Haven't Made Any Progress Since Last Week!
+## But, I Haven't Made Any Progress!
 
-All I can say is just catch up, even if you're really lagging and behind.  Rome wasn't built in a day, and my philosophy is that 20-30 minutes of coding a day is way better than cramming last minute for hours and hours.  
+Just jump in when you can. Even though everyone is working hard, you can join in or re-join anytime.  If you are behind on an issue assigned to you, please release the issue on [our project board](https://github.com/team-hack/react-components/projects/1) and allow someone else to start working on it.  To release an issue, simply add a comment to the card you have saying "I release this".
 
-If you remember your school days -- you knew that the people who usually did the best and got the "A" grade were people who studied and did their homework daily -- not the people who crammed really hard at the last minute.  Rather than cram super hard and get a "C" grade, find a way to just be consistent.  If you need help, I'm here via [Discord](https://discord.gg/eZDC3rP); message `@vijay`.   
+If you need help, I'm here via [Discord](https://discord.gg/eZDC3rP); message `@vijay`.   
 
-You can do it -- just think, you want to get better -- and you want to make this project mean something for you (and your career).  So keeping that in mind, bring your best foot forward.  The money and good life will follow.
+I know trying to code with others who seem more advanced than you feels scary.  You just have to jump in honestly, no matter what your level.  
+
+> Albert Einstein once said "It's not that I'm so smart, it's just that I stay with problems longer."  Make this your motto.
 
 ## Meeting at 6PM PST
 
